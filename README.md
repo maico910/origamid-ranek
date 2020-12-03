@@ -1,24 +1,19 @@
-# ranek
+<p align="center">
+  <img width="300" src="./src/assets/ranek.svg" alt="Ranek Logo logo">
+</p>
 
-## Project setup
+# Ranek
+
+## Descrição do projeto
+Ranek é o projeto final de curso de Vue.js do Origamid, é um sistema de e-commerce que contém:
+
+- CRUD de Produtos
+- Autenticação de Usuário
+- Histórico de compra e venda
+- Utilização de API
+
+## Rodar aplicação
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
